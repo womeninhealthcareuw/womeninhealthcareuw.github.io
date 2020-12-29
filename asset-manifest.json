@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/womeninhealthcareuw.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/womeninhealthcareuw.github.io/static/js/main.acc676b9.chunk.js",
+    "main.js.map": "/womeninhealthcareuw.github.io/static/js/main.acc676b9.chunk.js.map",
+    "runtime-main.js": "/womeninhealthcareuw.github.io/static/js/runtime-main.a7290648.js",
+    "runtime-main.js.map": "/womeninhealthcareuw.github.io/static/js/runtime-main.a7290648.js.map",
+    "static/js/2.2fdf48b3.chunk.js": "/womeninhealthcareuw.github.io/static/js/2.2fdf48b3.chunk.js",
+    "static/js/2.2fdf48b3.chunk.js.map": "/womeninhealthcareuw.github.io/static/js/2.2fdf48b3.chunk.js.map",
+    "static/js/3.0b97340f.chunk.js": "/womeninhealthcareuw.github.io/static/js/3.0b97340f.chunk.js",
+    "static/js/3.0b97340f.chunk.js.map": "/womeninhealthcareuw.github.io/static/js/3.0b97340f.chunk.js.map",
+    "index.html": "/womeninhealthcareuw.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/womeninhealthcareuw.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.2fdf48b3.chunk.js.LICENSE.txt": "/womeninhealthcareuw.github.io/static/js/2.2fdf48b3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/womeninhealthcareuw.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7290648.js",
+    "static/js/2.2fdf48b3.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.acc676b9.chunk.js"
+  ]
+}
