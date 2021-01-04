@@ -1,0 +1,40 @@
+.tabs {
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+}
+
+.tabs .title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 25%;
+}
+
+.tabs h1 {
+    font-size: 24px;
+}
+
+.tabs img {
+    width: 20%;
+}
+
+.tabs .list {
+    width: 35%;
+    display: flex;
+    justify-content: center;
+}
+
+.tabs ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+}
+
+.tabs a {
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+}

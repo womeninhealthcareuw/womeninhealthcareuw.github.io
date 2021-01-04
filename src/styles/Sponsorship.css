@@ -1,0 +1,93 @@
+.sponsorship .title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    background-color: #F9C3B9;
+}
+
+.sponsorship h1 {
+    color:  #547099;
+    font-size: 40px;
+}
+
+.sponsorship h2 {
+    font-size: 24px;
+}
+
+.sponsorship .levels {
+    display: flex;
+    height: 40vh;
+}
+
+.sponsorship .level {
+    width: 33.33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sponsorship .level h3 {
+    color:  #547099;
+    font-size: 24px;
+}
+
+.sponsorship ul {
+    list-style: none;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.sponsorship .form-panels {
+    display: flex;
+    height: 90vh;
+}
+
+.sponsorship .image {
+    width: 50%;
+}
+
+.sponsorship .form {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0 10%;
+}
+
+.sponsorship .form-title {
+    text-align: left;
+}
+
+.sponsorship form {
+    width: 70%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.sponsorship input, .sponsorship textarea {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 30vw;
+    margin-bottom: 1vh;
+    padding: 0.75vh 0;
+}
+
+.sponsorship button {
+    width: 30.25vw;
+    height: 4vh;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.sponsorship button h1 {
+    font-size: 18px;
+    margin: auto;
+    color: white;
+}
