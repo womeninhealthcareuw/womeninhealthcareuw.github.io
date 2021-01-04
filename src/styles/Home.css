@@ -1,0 +1,92 @@
+.home .title img {
+    width: 100%;
+}
+
+.home .second-layer {
+    display: flex;
+    height: 67.5vh;
+    margin-top: -4px;
+}
+
+.home .logo {
+    width: 50%;
+}
+
+.home .logo img {
+    width: 100%;
+}
+
+.home .description {
+    width: 50%;
+    background-color: #547099;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.home .text h1 {
+    font-size: 42px;
+}
+
+.home .text h2 {
+    font-size: 24px;
+}
+
+.home .text p {
+    line-height: 1.75;
+}
+
+.home .third-layer {
+    display: flex;
+    height: 27.5vh;
+    color: white;
+}
+
+.home h3 {
+    font-size: 24px;
+}
+
+.home p {
+    font-size: 20px;
+    margin-top: -0.75%;
+}
+
+.home .education {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 33.33%;
+    background-color: #89A9DA;
+}
+
+.home .advocacy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 33.33%;
+    background-color: #F36044;
+}
+
+.home .support {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 33.33%;
+    background-color: #163154;
+}
+
+.home .fourth-layer img {
+    width: 100%;
+}

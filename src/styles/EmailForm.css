@@ -1,0 +1,28 @@
+.email-form {
+    margin: 5%;
+}
+
+.email-form h1 {
+    font-size: 20px;
+}
+
+.email-form input {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 30vw;
+    margin-bottom: 1vh;
+    padding: 0.75vh 0;
+}
+
+.email-form button {
+    width: 30.25vw;
+    height: 4vh;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.email-form button h1 {
+    font-size: 18px;
+    margin: auto;
+}
