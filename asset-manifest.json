@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/womeninhealthcareuw.github.io/static/css/main.4cedec18.chunk.css",
-    "main.js": "/womeninhealthcareuw.github.io/static/js/main.1716417a.chunk.js",
-    "main.js.map": "/womeninhealthcareuw.github.io/static/js/main.1716417a.chunk.js.map",
+    "main.css": "/womeninhealthcareuw.github.io/static/css/main.a71eb1fd.chunk.css",
+    "main.js": "/womeninhealthcareuw.github.io/static/js/main.4ffe4ea3.chunk.js",
+    "main.js.map": "/womeninhealthcareuw.github.io/static/js/main.4ffe4ea3.chunk.js.map",
     "runtime-main.js": "/womeninhealthcareuw.github.io/static/js/runtime-main.7d85c1c0.js",
     "runtime-main.js.map": "/womeninhealthcareuw.github.io/static/js/runtime-main.7d85c1c0.js.map",
     "static/js/2.52355cc7.chunk.js": "/womeninhealthcareuw.github.io/static/js/2.52355cc7.chunk.js",
@@ -10,17 +10,18 @@
     "static/js/3.e1f4a01c.chunk.js": "/womeninhealthcareuw.github.io/static/js/3.e1f4a01c.chunk.js",
     "static/js/3.e1f4a01c.chunk.js.map": "/womeninhealthcareuw.github.io/static/js/3.e1f4a01c.chunk.js.map",
     "index.html": "/womeninhealthcareuw.github.io/index.html",
-    "static/css/main.4cedec18.chunk.css.map": "/womeninhealthcareuw.github.io/static/css/main.4cedec18.chunk.css.map",
+    "static/css/main.a71eb1fd.chunk.css.map": "/womeninhealthcareuw.github.io/static/css/main.a71eb1fd.chunk.css.map",
     "static/js/2.52355cc7.chunk.js.LICENSE.txt": "/womeninhealthcareuw.github.io/static/js/2.52355cc7.chunk.js.LICENSE.txt",
     "static/media/IMG_7464.f8203222.PNG": "/womeninhealthcareuw.github.io/static/media/IMG_7464.f8203222.PNG",
     "static/media/WiH FB Cover.ae1e729c.PNG": "/womeninhealthcareuw.github.io/static/media/WiH FB Cover.ae1e729c.PNG",
     "static/media/WiH Logo.906f152f.JPG": "/womeninhealthcareuw.github.io/static/media/WiH Logo.906f152f.JPG",
+    "static/media/fullsizeoutput_682b.0f629c68.jpeg": "/womeninhealthcareuw.github.io/static/media/fullsizeoutput_682b.0f629c68.jpeg",
     "static/media/thumbnail_Image.43cbd313.jpg": "/womeninhealthcareuw.github.io/static/media/thumbnail_Image.43cbd313.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7d85c1c0.js",
     "static/js/2.52355cc7.chunk.js",
-    "static/css/main.4cedec18.chunk.css",
-    "static/js/main.1716417a.chunk.js"
+    "static/css/main.a71eb1fd.chunk.css",
+    "static/js/main.4ffe4ea3.chunk.js"
   ]
 }
