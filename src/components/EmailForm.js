@@ -17,7 +17,6 @@ class EmailForm extends React.Component {
                         <h1>Submit</h1>
                     </button>
                 </form>
-                <iframe title="googleform" src="https://docs.google.com/forms/d/e/1FAIpQLSfqNUuPLLGMpf81jk2aSMZmRMLqlSr81TjZs-nY4dvcsGYjMQ/viewform?embedded=true" width="640" height="1308" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
             </div>
         );
     }
@@ -25,4 +24,4 @@ class EmailForm extends React.Component {
 
 export default EmailForm;
 
-// <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfqNUuPLLGMpf81jk2aSMZmRMLqlSr81TjZs-nY4dvcsGYjMQ/viewform?embedded=true" width="640" height="1308" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+// <iframe title="googleform" src="https://docs.google.com/forms/d/e/1FAIpQLSfqNUuPLLGMpf81jk2aSMZmRMLqlSr81TjZs-nY4dvcsGYjMQ/viewform?embedded=true" width="640" height="1308" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
