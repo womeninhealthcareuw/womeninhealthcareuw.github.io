@@ -4,7 +4,7 @@ import "../styles/OurTeam.css";
 class OurTeam extends React.Component {
     render() {
         return (
-            <div className="four-team">
+            <div className="our-team">
                 <div className="layer">
                     <div className="panel-1-1 sublayer">
                     
@@ -31,7 +31,7 @@ class OurTeam extends React.Component {
                     </div>
                     <div className="panel-2-3 sublayer">
                         <h1>Reese Whiteman</h1>
-                        <h2>Director of<br></br> Operations</h2>
+                        <h2>Director of Operations</h2>
                     </div>
                     <div className="panel-2-4 sublayer">
                     
