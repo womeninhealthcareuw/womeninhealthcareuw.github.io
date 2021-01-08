@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/About.css";
+import cover from "../images/fullsizeoutput_682b.jpeg"
 
 class About extends React.Component {
     render() {
@@ -7,7 +8,7 @@ class About extends React.Component {
             <div className="about">
                 <div className="panels">
                     <div className="picture">
-                       
+                       <img src={cover} alt="cover"></img>
                     </div>
                     <div className="description">
                         <div className="text">

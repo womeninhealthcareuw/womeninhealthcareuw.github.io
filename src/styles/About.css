@@ -1,6 +1,6 @@
 .about .panels {
     display: flex;
-    height: 75vh;
+    /* height: 75vh; */
 }
 
 .about .picture {
@@ -35,4 +35,9 @@
 
 .about .text p {
     line-height: 1.75;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
