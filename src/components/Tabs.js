@@ -32,8 +32,8 @@ class Tab extends React.Component {
                         <li><a href="#0" onClick={() => this.changeTab('about')}>About</a></li>
                         <li><a href="#0" onClick={() => this.changeTab('sponsorship')}>Sponsorship</a></li>
                         <li><a href="#0" onClick={() => this.changeTab('our-team')}>Our Team</a></li>
-                        <li><a href="#0" onClick={() => this.changeTab('events')}>Events</a></li>
-                        <li><a href="#0" onClick={() => this.changeTab('blog')}>Blog</a></li>
+                        {/* <li><a href="#0" onClick={() => this.changeTab('join-us')}>Join Us</a></li> */}
+                        <li><button className="join-us" onClick={() => this.changeTab('join-us')}>Join Us</button></li>
                     </ul>
                 </div>
             </div>

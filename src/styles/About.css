@@ -1,12 +1,17 @@
 .about .panels {
     display: flex;
-    /* height: 75vh; */
+    height: 100%;
 }
 
 .about .picture {
     width: 50%;
-    background-color: #547099;
+    height: 100%;
 }
+
+/* .pic {
+    height: 100%;
+} */
+
 
 .about .description {
     width: 50%;

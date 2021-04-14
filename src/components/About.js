@@ -8,7 +8,7 @@ class About extends React.Component {
             <div className="about">
                 <div className="panels">
                     <div className="picture">
-                       <img src={cover} alt="cover"></img>
+                       <img src={cover} alt="cover" className="pic"></img>
                     </div>
                     <div className="description">
                         <div className="text">

@@ -41,9 +41,9 @@ class Home extends React.Component {
                         <p>One Step at a Time</p>
                     </div>
                 </div>
-                <div className="fourth-layer">
+                {/* <div className="fourth-layer">
                     <img src={coverImage} alt="Cover"></img>
-                </div>
+                </div> */}
             </div>
         );
     }
