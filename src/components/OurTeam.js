@@ -1,41 +1,161 @@
 import React from "react";
 import "../styles/OurTeam.css";
+import logo from "../images/IMG_7464.PNG";
+
 
 class OurTeam extends React.Component {
     render() {
         return (
-            <div className="four-team">
-                <div className="layer">
-                    <div className="panel-1-1 sublayer">
-                    
-                    </div>
-                    <div className="panel-1-2 sublayer">
-                        <h1>Morgan James</h1>
-                        <h2>President</h2>
-                    </div>
-                    <div className="panel-1-3 sublayer">
-                    
-                    </div>
-                    <div className="panel-1-4 sublayer">
-                        <h1>Jamie Lane</h1>
-                        <h2>Director of<br></br> Communications</h2>
-                    </div>
+            <div className="team">
+                <div className="title">
+                    <h1>Our Team</h1>
                 </div>
-                <div className="layer">
-                    <div className="panel-2-1 sublayer">
-                        <h1>Jesse Neimus</h1>
-                        <h2>Director of<br></br> Communications</h2>
+                <div className="all-execs">
+
+                    <div className="exec">
+                        <img src={logo} alt="Marina Zheng"></img>
+                        <h2>Marina Zheng</h2>
+                        <p>President</p>
                     </div>
-                    <div className="panel-2-2 sublayer">
                     
+                    <div className="exec">
+                        <img src={logo} alt="Tiantian Li"></img>
+                        <h2>Tiantian Li</h2>
+                        <p>Secretary / VP Admin</p>
                     </div>
-                    <div className="panel-2-3 sublayer">
-                        <h1>Reese Whiteman</h1>
-                        <h2>Director of<br></br> Operations</h2>
+
+                    <div className="exec">
+                        <img src={logo} alt="Janice Ng"></img>
+                        <h2>Janice Ng</h2>
+                        <p>VP Finance</p>
                     </div>
-                    <div className="panel-2-4 sublayer">
+
+                    <div className="exec">
+                        <img src={logo} alt="Bonnie Peng"></img>
+                        <h2>Bonnie Peng</h2>
+                        <p>Web Developer</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
                     
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
                     </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
+                    <div className="exec">
+                        <img src={logo} alt="Exec Profile"></img>
+                        <h2>Name</h2>
+                        <p>Role</p>
+                    </div>
+
                 </div>
             </div>
         );
