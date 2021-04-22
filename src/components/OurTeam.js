@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/OurTeam.css";
 import { data } from "../exec-data";
+import logo from "../images/IMG_7464.PNG";
 
 class OurTeam extends React.Component {
   render() {
