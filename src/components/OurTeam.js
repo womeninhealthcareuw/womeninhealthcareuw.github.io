@@ -1,35 +1,10 @@
 import React from "react";
 import "../styles/OurTeam.css";
+import data from '../exec-data.json';
 
 class OurTeam extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      items: [],
-    };
-  }
-
-  componentDidMount() {
-    fetch("exec-data.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then((res) => res.json())
-      .then((json) => {
-        this.setState({
-          items: json,
-        });
-      })
-      .catch((err) => {
-        console.log(err);
-      });
-  }
 
   render() {
-    const { data } = this.state;
-
     return (
       <div className="team">
         <div className="title">
