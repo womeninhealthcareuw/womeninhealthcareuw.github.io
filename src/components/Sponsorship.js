@@ -35,7 +35,10 @@ class Sponsorship extends React.Component {
                         </ul>
                     </div>
                 </div>
-                <div className="form-panels">
+                <div className="title contact-us">
+                    <h2 className="white">Contact Women in Healthcare about Sponsorships at womeninhealthcare@clubs.wusa.ca!</h2>
+                </div>
+                {/* <div className="form-panels">
                     <div className="image">
 
                     </div>
@@ -49,7 +52,7 @@ class Sponsorship extends React.Component {
                             <button type="submit"><h1>Submit</h1></button>
                         </form>
                     </div>
-                </div>
+                </div> */}
             </div>
         );
     }

@@ -6,6 +6,7 @@ import About from "./components/About";
 import Sponsorship from "./components/Sponsorship";
 import OurTeam from "./components/OurTeam";
 import EmailForm from "./components/EmailForm";
+import JoinUs from "./components/JoinUs";
 
 class App extends React.Component {
     constructor(props) {
@@ -28,7 +29,8 @@ class App extends React.Component {
                 {this.state.tab === 'about' && <About />}
                 {this.state.tab === 'sponsorship' && <Sponsorship />}
                 {this.state.tab === 'our-team' && <OurTeam />}
-                <EmailForm />
+                {this.state.tab === 'join-us' && <JoinUs />}
+                {/* <EmailForm /> */}
             </div>
         );
     }
