@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/OurTeam.css";
-import data from '../exec-data.json';
+import data from '../exec-data';
 
 class OurTeam extends React.Component {
 
@@ -13,7 +13,7 @@ class OurTeam extends React.Component {
 
         <div className="all-execs">
           {data.map((exec) => (
-            <div className="exec">
+            <div key={exec.id} className="exec">
               <img src={exec.image} alt={exec.name}></img>
               <h2>{exec.name}</h2>
               <p>{exec.role}</p>
