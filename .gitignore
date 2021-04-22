@@ -22,4 +22,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
 .eslintcache
+=======
+<<<<<<< master
+.eslintcache
+=======
+.eslintcache
+>>>>>>> Edit .gitignore.
+>>>>>>> 594abee3f7ceb0aa14fdf3bc2b61707d8f10e320
