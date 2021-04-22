@@ -1,28 +1,27 @@
 import marina from "./images/exec-images/7E7C261A-4AF3-437F-8189-B92171CE30B3_Marina Zheng.JPG"
 import placeholder from "./images/IMG_7464.PNG"
+import katie from "./images/exec-images/09B621EB-6F3A-4782-8670-B2FA37A8AAF5_Kathleen Szajbely.png";
 
 export const data = [
   {
     name: "Marina Zheng",
     role: "President",
-    image:
-      require("./images/exec-images/7E7C261A-4AF3-437F-8189-B92171CE30B3_Marina Zheng.JPG"),
+    image: marina,
   },
   {
     name: "Janice Ng",
     role: "VP Finance",
-    image: require("./images/IMG_7464.PNG"),
+    image: placeholder,
   },
   {
     name: "Tiantian Li",
     role: "VP Admin",
-    image: require("./images/IMG_7464.PNG"),
+    image: placeholder,
   },
   {
     name: "Katie Szajbely",
     role: "Head of Administration",
-    image:
-      require("./images/exec-images/09B621EB-6F3A-4782-8670-B2FA37A8AAF5_Kathleen Szajbely.png"),
+    image: katie,
   },
   {
     name: "Nadine Ghanem",
@@ -60,7 +59,7 @@ export const data = [
   {
     name: "Anna Kandias",
     role: "Events Director",
-    image: require("./images/IMG_7464.PNG"),
+    image: placeholder,
   },
   {
     name: "Hailey Granger",
@@ -117,7 +116,7 @@ export const data = [
   {
     name: "Sara Sennaoui",
     role: "Sponsorship Director",
-    image: require("./images/IMG_7464.PNG"),
+    image: placeholder,
   },
   {
     name: "Sarah Ismail",
@@ -184,7 +183,7 @@ export const data = [
   {
     name: "Victoria Thai",
     role: "Finance Director",
-    image: require("./images/IMG_7464.PNG"),
+    image: placeholder,
   },
   {
     name: "Michelle Wong",
