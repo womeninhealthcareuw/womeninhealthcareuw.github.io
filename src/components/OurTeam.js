@@ -1,9 +1,8 @@
 import React from "react";
 import "../styles/OurTeam.css";
-import data from '../exec-data';
+import { data } from "../exec-data";
 
 class OurTeam extends React.Component {
-
   render() {
     return (
       <div className="team">
