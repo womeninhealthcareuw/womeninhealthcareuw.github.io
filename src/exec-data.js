@@ -1,3 +1,6 @@
+import marina from "./images/exec-images/7E7C261A-4AF3-437F-8189-B92171CE30B3_Marina Zheng.JPG"
+import placeholder from "./images/IMG_7464.PNG"
+
 export const data = [
   {
     name: "Marina Zheng",
@@ -194,5 +197,3 @@ export const data = [
     image: require("./images/exec-images/20210207_091253_227_Tonia Hart.jpg"),
   },
 ];
-
-//export default data;
