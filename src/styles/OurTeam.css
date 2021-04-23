@@ -27,15 +27,18 @@
     justify-content: center;
     align-items: center;
     padding: 1.3rem;
-    border-radius: 11px;
+    border-radius: 10px;
     width: 20%;
     height: auto;
     margin: 1rem 1.3rem 2rem 1rem;
     position: relative;
 }
 
-.team img{
-    border-radius: 9px;
+.exec img{
+    border-radius: 5px;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
 }
 
 .team p{
@@ -48,5 +51,4 @@
 .team h2{
     margin-top: 1.5rem;
 }
-
 
